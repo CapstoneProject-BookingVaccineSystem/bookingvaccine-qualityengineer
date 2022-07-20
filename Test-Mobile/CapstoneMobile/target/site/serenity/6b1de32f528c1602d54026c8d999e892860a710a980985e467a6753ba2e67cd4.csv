@@ -1,0 +1,2 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Login","Verify if the user can't login with invalid NIK (TC_L1)","FAILURE","2022-07-20T14:11:18.4344746+07:00[Asia/Bangkok]","0.0","68.47"

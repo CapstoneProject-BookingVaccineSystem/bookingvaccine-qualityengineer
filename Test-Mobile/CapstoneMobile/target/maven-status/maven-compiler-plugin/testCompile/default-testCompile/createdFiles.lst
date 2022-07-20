@@ -1,0 +1,10 @@
+test\automation\CucumberTestSuite.class
+test\automation\stepdefinitions\RegisterStep.class
+test\automation\hooks\BaseDriverHooks.class
+test\automation\pages\BookingJadwalPage.class
+test\automation\pages\RegisterPage.class
+test\automation\pages\HomePage.class
+test\automation\stepdefinitions\LoginStep.class
+test\automation\pages\FamilyPage.class
+test\automation\pages\ProfilePage.class
+test\automation\pages\LoginPage.class

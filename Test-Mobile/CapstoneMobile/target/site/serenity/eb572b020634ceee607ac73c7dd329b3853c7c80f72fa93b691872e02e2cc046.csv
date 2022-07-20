@@ -1,0 +1,8 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Home","Verify that the components on the home screen are displayed (TC_H1)","PENDING","2022-07-20T14:11:17.0430497+07:00[Asia/Bangkok]","0.0","0.58"
+"Home","User want see menu in side bar (TC_H2)","PENDING","2022-07-20T14:11:17.6778873+07:00[Asia/Bangkok]","0.0","0.05"
+"Home","User wants to booking vaccine (TC_H3)","PENDING","2022-07-20T14:11:17.7577516+07:00[Asia/Bangkok]","0.0","0.06"
+"Home","User want to ""Baca Selengkapnya"" section ""Cara pencegahan virus covid-19"" on ekslusif hanya untuk Anda (TC_H4)","PENDING","2022-07-20T14:11:17.8521199+07:00[Asia/Bangkok]","0.0","0.04"
+"Home","User want to ""Baca Selengkapnya"" section ""Cara pencegahan virus covid-19"" on ekslusif hanya untuk Anda (TC_H5)","PENDING","2022-07-20T14:11:17.9189933+07:00[Asia/Bangkok]","0.0","0.05"
+"Home","User want to see more ""Berita Terbaru"" from home page (TC_H6)","PENDING","2022-07-20T14:11:17.9892089+07:00[Asia/Bangkok]","0.0","0.05"
+"Home","User want to logout account (TC_H7)","PENDING","2022-07-20T14:11:18.0672229+07:00[Asia/Bangkok]","0.0","0.05"

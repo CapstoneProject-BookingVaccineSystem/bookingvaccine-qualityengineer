@@ -1,0 +1,1084 @@
+-------------------------------------------------------------------------------
+Test set: test.automation.CucumberTestSuite
+-------------------------------------------------------------------------------
+Tests run: 152, Failures: 2, Errors: 42, Skipped: 83, Time elapsed: 920.631 sec <<< FAILURE! - in test.automation.CucumberTestSuite
+User login into the app with nik "<nik>" and password "<pwd>"(Verify that the components on the home screen are displayed (TC_H1))  Time elapsed: 0.13 sec  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: 
+The step 'User login into the app with nik "<nik>" and password "<pwd>"' and 2 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given("User login into the app with nik {string} and password {string}")
+public void user_login_into_the_app_with_nik_and_password(String string, String string2) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("Users on the home screen")
+public void users_on_the_home_screen() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("Display the existing components \\(Header, Content, Ekslusif content, news)")
+public void display_the_existing_components_header_content_ekslusif_content_news() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+Verify that the components on the home screen are displayed (TC_H1)  Time elapsed: 0.008 sec  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: 
+The step 'User login into the app with nik "<nik>" and password "<pwd>"' and 2 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given("User login into the app with nik {string} and password {string}")
+public void user_login_into_the_app_with_nik_and_password(String string, String string2) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("Users on the home screen")
+public void users_on_the_home_screen() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("Display the existing components \\(Header, Content, Ekslusif content, news)")
+public void display_the_existing_components_header_content_ekslusif_content_news() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+User login into the app with nik "<nik>" and password "<pwd>"(User want see menu in side bar (TC_H2))  Time elapsed: 0 sec  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: 
+The step 'User login into the app with nik "<nik>" and password "<pwd>"' and 3 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given("User login into the app with nik {string} and password {string}")
+public void user_login_into_the_app_with_nik_and_password(String string, String string2) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("Users on the home screen")
+public void users_on_the_home_screen() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("The user tap on the hamburger menu on the top left side of the screen")
+public void the_user_tap_on_the_hamburger_menu_on_the_top_left_side_of_the_screen() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("Show list menu")
+public void show_list_menu() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+User want see menu in side bar (TC_H2)  Time elapsed: 0.007 sec  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: 
+The step 'User login into the app with nik "<nik>" and password "<pwd>"' and 3 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given("User login into the app with nik {string} and password {string}")
+public void user_login_into_the_app_with_nik_and_password(String string, String string2) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("Users on the home screen")
+public void users_on_the_home_screen() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("The user tap on the hamburger menu on the top left side of the screen")
+public void the_user_tap_on_the_hamburger_menu_on_the_top_left_side_of_the_screen() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("Show list menu")
+public void show_list_menu() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+User login into the app with nik "<nik>" and password "<pwd>"(User wants to booking vaccine (TC_H3))  Time elapsed: 0.006 sec  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: 
+The step 'User login into the app with nik "<nik>" and password "<pwd>"' and 6 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given("User login into the app with nik {string} and password {string}")
+public void user_login_into_the_app_with_nik_and_password(String string, String string2) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("Users on the home screen")
+public void users_on_the_home_screen() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("User tap button {string}")
+public void user_tap_button(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("User select location vaccine")
+public void user_select_location_vaccine() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("User direct to invoce page and tap button to go to home page")
+public void user_direct_to_invoce_page_and_tap_button_to_go_to_home_page() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+User wants to booking vaccine (TC_H3)  Time elapsed: 0.006 sec  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: 
+The step 'User login into the app with nik "<nik>" and password "<pwd>"' and 6 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given("User login into the app with nik {string} and password {string}")
+public void user_login_into_the_app_with_nik_and_password(String string, String string2) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("Users on the home screen")
+public void users_on_the_home_screen() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("User tap button {string}")
+public void user_tap_button(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("User select location vaccine")
+public void user_select_location_vaccine() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("User direct to invoce page and tap button to go to home page")
+public void user_direct_to_invoce_page_and_tap_button_to_go_to_home_page() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+User login into the app with nik "<nik>" and password "<pwd>"(User want to "Baca Selengkapnya" section "Cara pencegahan virus covid-19" on ekslusif hanya untuk Anda (TC_H4))  Time elapsed: 0.006 sec  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: 
+The step 'User login into the app with nik "<nik>" and password "<pwd>"' and 3 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given("User login into the app with nik {string} and password {string}")
+public void user_login_into_the_app_with_nik_and_password(String string, String string2) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("Users on the home screen")
+public void users_on_the_home_screen() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("User Click button {string} on ekslusif {string}")
+public void user_click_button_on_ekslusif(String string, String string2) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("Show screen {string}")
+public void show_screen(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+User want to "Baca Selengkapnya" section "Cara pencegahan virus covid-19" on ekslusif hanya untuk Anda (TC_H4)  Time elapsed: 0.008 sec  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: 
+The step 'User login into the app with nik "<nik>" and password "<pwd>"' and 3 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given("User login into the app with nik {string} and password {string}")
+public void user_login_into_the_app_with_nik_and_password(String string, String string2) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("Users on the home screen")
+public void users_on_the_home_screen() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("User Click button {string} on ekslusif {string}")
+public void user_click_button_on_ekslusif(String string, String string2) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("Show screen {string}")
+public void show_screen(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+User login into the app with nik "<nik>" and password "<pwd>"(User want to "Baca Selengkapnya" section "Cara pencegahan virus covid-19" on ekslusif hanya untuk Anda (TC_H5))  Time elapsed: 0.007 sec  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: 
+The step 'User login into the app with nik "<nik>" and password "<pwd>"' and 3 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given("User login into the app with nik {string} and password {string}")
+public void user_login_into_the_app_with_nik_and_password(String string, String string2) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("Users on the home screen")
+public void users_on_the_home_screen() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("User on home screen and click button {string} on ekslusif {string}")
+public void user_on_home_screen_and_click_button_on_ekslusif(String string, String string2) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("Show Screen {string}")
+public void show_screen(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+User want to "Baca Selengkapnya" section "Cara pencegahan virus covid-19" on ekslusif hanya untuk Anda (TC_H5)  Time elapsed: 0.007 sec  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: 
+The step 'User login into the app with nik "<nik>" and password "<pwd>"' and 3 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given("User login into the app with nik {string} and password {string}")
+public void user_login_into_the_app_with_nik_and_password(String string, String string2) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("Users on the home screen")
+public void users_on_the_home_screen() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("User on home screen and click button {string} on ekslusif {string}")
+public void user_on_home_screen_and_click_button_on_ekslusif(String string, String string2) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("Show Screen {string}")
+public void show_screen(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+User login into the app with nik "<nik>" and password "<pwd>"(User want to see more "Berita Terbaru" from home page (TC_H6))  Time elapsed: 0.005 sec  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: 
+The step 'User login into the app with nik "<nik>" and password "<pwd>"' and 4 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given("User login into the app with nik {string} and password {string}")
+public void user_login_into_the_app_with_nik_and_password(String string, String string2) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("Users on the home screen")
+public void users_on_the_home_screen() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("User direct to screen Berita Terbaru")
+public void user_direct_to_screen_berita_terbaru() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("User select {int} news and go to reading article")
+public void user_select_news_and_go_to_reading_article(Integer int1) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("The application displays articles based on the selected")
+public void the_application_displays_articles_based_on_the_selected() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+User want to see more "Berita Terbaru" from home page (TC_H6)  Time elapsed: 0.007 sec  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: 
+The step 'User login into the app with nik "<nik>" and password "<pwd>"' and 4 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given("User login into the app with nik {string} and password {string}")
+public void user_login_into_the_app_with_nik_and_password(String string, String string2) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("Users on the home screen")
+public void users_on_the_home_screen() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("User direct to screen Berita Terbaru")
+public void user_direct_to_screen_berita_terbaru() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("User select {int} news and go to reading article")
+public void user_select_news_and_go_to_reading_article(Integer int1) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("The application displays articles based on the selected")
+public void the_application_displays_articles_based_on_the_selected() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+User login into the app with nik "<nik>" and password "<pwd>"(User want to logout account (TC_H7))  Time elapsed: 0.004 sec  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: 
+The step 'User login into the app with nik "<nik>" and password "<pwd>"' and 4 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given("User login into the app with nik {string} and password {string}")
+public void user_login_into_the_app_with_nik_and_password(String string, String string2) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("Users on the home screen")
+public void users_on_the_home_screen() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("User tap humberger icon to open sidebar")
+public void user_tap_humberger_icon_to_open_sidebar() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("Tap Keluar Akun")
+public void tap_keluar_akun() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("Go to login page")
+public void go_to_login_page() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+User want to logout account (TC_H7)  Time elapsed: 0.01 sec  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: 
+The step 'User login into the app with nik "<nik>" and password "<pwd>"' and 4 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given("User login into the app with nik {string} and password {string}")
+public void user_login_into_the_app_with_nik_and_password(String string, String string2) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("Users on the home screen")
+public void users_on_the_home_screen() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("User tap humberger icon to open sidebar")
+public void user_tap_humberger_icon_to_open_sidebar() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("Tap Keluar Akun")
+public void tap_keluar_akun() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("Go to login page")
+public void go_to_login_page() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+User login to the application with input nik "<nik>" and password "<password>"(User want to check family member (TC_F2))  Time elapsed: 0.005 sec  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: 
+The step 'User login to the application with input nik "<nik>" and password "<password>"' and 4 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given("User login to the application with input nik {string} and password {string}")
+public void user_login_to_the_application_with_input_nik_and_password(String string, String string2) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("On Home Screen User tap button humberger")
+public void on_home_screen_user_tap_button_humberger() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("User tap menu {string}")
+public void user_tap_menu(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("user tap button {string}")
+public void user_tap_button(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("Display information about NIK and Nama Lengkap")
+public void display_information_about_nik_and_nama_lengkap() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+User want to check family member (TC_F2)  Time elapsed: 0.008 sec  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: 
+The step 'User login to the application with input nik "<nik>" and password "<password>"' and 4 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given("User login to the application with input nik {string} and password {string}")
+public void user_login_to_the_application_with_input_nik_and_password(String string, String string2) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("On Home Screen User tap button humberger")
+public void on_home_screen_user_tap_button_humberger() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("User tap menu {string}")
+public void user_tap_menu(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("user tap button {string}")
+public void user_tap_button(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("Display information about NIK and Nama Lengkap")
+public void display_information_about_nik_and_nama_lengkap() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+User login to the application with input nik "<nik>" and password "<password>"(User want to edit NIK Anggota Keluarga with invalid NIK (TC_F5))  Time elapsed: 0.006 sec  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: 
+The step 'User login to the application with input nik "<nik>" and password "<password>"' and 7 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given("User login to the application with input nik {string} and password {string}")
+public void user_login_to_the_application_with_input_nik_and_password(String string, String string2) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("On Home Screen User tap button humberger")
+public void on_home_screen_user_tap_button_humberger() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("User tap menu {string}")
+public void user_tap_menu(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("Tap List Keluarga {string}")
+public void tap_list_keluarga(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("Tap button ubah")
+public void tap_button_ubah() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("Remove NIK until less than {int} digits")
+public void remove_nik_until_less_than_digits(Integer int1) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("Tap button Simpan")
+public void tap_button_simpan() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("Show Message Error {string}")
+public void show_message_error(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+User want to edit NIK Anggota Keluarga with invalid NIK (TC_F5)  Time elapsed: 0.008 sec  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: 
+The step 'User login to the application with input nik "<nik>" and password "<password>"' and 7 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given("User login to the application with input nik {string} and password {string}")
+public void user_login_to_the_application_with_input_nik_and_password(String string, String string2) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("On Home Screen User tap button humberger")
+public void on_home_screen_user_tap_button_humberger() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("User tap menu {string}")
+public void user_tap_menu(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("Tap List Keluarga {string}")
+public void tap_list_keluarga(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("Tap button ubah")
+public void tap_button_ubah() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("Remove NIK until less than {int} digits")
+public void remove_nik_until_less_than_digits(Integer int1) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("Tap button Simpan")
+public void tap_button_simpan() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("Show Message Error {string}")
+public void show_message_error(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+User login to the application with input nik "<nik>" and password "<password>"(User want to delete family member (TC_F6))  Time elapsed: 0.005 sec  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: 
+The step 'User login to the application with input nik "<nik>" and password "<password>"' and 6 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given("User login to the application with input nik {string} and password {string}")
+public void user_login_to_the_application_with_input_nik_and_password(String string, String string2) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("On Home Screen User tap button humberger")
+public void on_home_screen_user_tap_button_humberger() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("User tap menu {string}")
+public void user_tap_menu(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("Tap List keluarga {int}")
+public void tap_list_keluarga(Integer int1) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("Tap button Hapus")
+public void tap_button_hapus() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("Tap Konfirmasi")
+public void tap_konfirmasi() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("Data Keluarga deleted")
+public void data_keluarga_deleted() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+User want to delete family member (TC_F6)  Time elapsed: 0.007 sec  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: 
+The step 'User login to the application with input nik "<nik>" and password "<password>"' and 6 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given("User login to the application with input nik {string} and password {string}")
+public void user_login_to_the_application_with_input_nik_and_password(String string, String string2) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("On Home Screen User tap button humberger")
+public void on_home_screen_user_tap_button_humberger() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("User tap menu {string}")
+public void user_tap_menu(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("Tap List keluarga {int}")
+public void tap_list_keluarga(Integer int1) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("Tap button Hapus")
+public void tap_button_hapus() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("Tap Konfirmasi")
+public void tap_konfirmasi() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("Data Keluarga deleted")
+public void data_keluarga_deleted() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+Show message error "NIK Atau Password Salah"(Verify if the user can't login with invalid NIK (TC_L1))  Time elapsed: 3.179 sec  <<< FAILURE!
+java.lang.AssertionError: expected:<NIK Atau Password Salah> but was:<true>
+
+Verify if the user can't login with invalid NIK (TC_L1)  Time elapsed: 3.195 sec  <<< FAILURE!
+java.lang.AssertionError: expected:<NIK Atau Password Salah> but was:<true>
+
+User input invalid Password "passwordinvalid"(Verify if the user can't login with invalid Password (TC_L2))  Time elapsed: 45.604 sec  <<< ERROR!
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: /hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.EditText[2] (tried for 20 second(s) with 500 milliseconds interval)
+Caused by: org.openqa.selenium.NoSuchElementException: 
+An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RIKOSAHETAPI', ip: '192.168.0.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: C:\Users\RICO\IdeaProjects\..., appPackage: com.example.bookingvaccine, automationName: UiAutomator2, databaseEnabled: false, desired: {app: C:\Users\RICO\IdeaProjects\..., automationName: UiAutomator2, noReset: true, platformName: android, platformVersion: 12}, deviceApiLevel: 31, deviceManufacturer: Google, deviceModel: sdk_gphone64_x86_64, deviceName: emulator-5554, deviceScreenDensity: 440, deviceScreenSize: 1080x2280, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, noReset: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 12, statBarHeight: 83, takesScreenshot: true, viewportRect: {height: 2065, left: 0, top: 83, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 026eb0f4-2ccb-4f6e-9417-178d85f98c5d
+*** Element info: {Using=xpath, value=/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.EditText[2]}
+
+Verify if the user can't login with invalid Password (TC_L2)  Time elapsed: 0 sec  <<< ERROR!
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: By.xpath: /hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.EditText[2] (tried for 20 second(s) with 500 milliseconds interval)
+Caused by: org.openqa.selenium.NoSuchElementException: 
+An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RIKOSAHETAPI', ip: '192.168.0.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: C:\Users\RICO\IdeaProjects\..., appPackage: com.example.bookingvaccine, automationName: UiAutomator2, databaseEnabled: false, desired: {app: C:\Users\RICO\IdeaProjects\..., automationName: UiAutomator2, noReset: true, platformName: android, platformVersion: 12}, deviceApiLevel: 31, deviceManufacturer: Google, deviceModel: sdk_gphone64_x86_64, deviceName: emulator-5554, deviceScreenDensity: 440, deviceScreenSize: 1080x2280, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, noReset: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 12, statBarHeight: 83, takesScreenshot: true, viewportRect: {height: 2065, left: 0, top: 83, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 026eb0f4-2ccb-4f6e-9417-178d85f98c5d
+*** Element info: {Using=xpath, value=/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View/android.widget.EditText[2]}
+
+User on Login Screen(Verify if the user can login with valid Nik and Password (TC_L6))  Time elapsed: 28.907 sec  <<< ERROR!
+org.openqa.selenium.SessionNotCreatedException: 
+Unable to create a new remote session. Please check the server log for more details. Original error: An unknown server-side error occurred while processing the command. Original error: Cannot start the 'com.example.bookingvaccine' application. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting. Original error: 'com.example.bookingvaccine.MainActivity' or 'com.example.bookingvaccine.com.example.bookingvaccine.MainActivity' never started. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RIKOSAHETAPI', ip: '192.168.0.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: driver.version: AndroidDriver
+remote stacktrace: UnknownError: An unknown server-side error occurred while processing the command. Original error: Cannot start the 'com.example.bookingvaccine' application. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting. Original error: 'com.example.bookingvaccine.MainActivity' or 'com.example.bookingvaccine.com.example.bookingvaccine.MainActivity' never started. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting
+    at getResponseForW3CError (C:\Users\RICO\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\RICO\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:380:37)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RIKOSAHETAPI', ip: '192.168.0.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: driver.version: AndroidDriver
+Caused by: java.lang.reflect.InvocationTargetException
+Caused by: org.openqa.selenium.WebDriverException: 
+An unknown server-side error occurred while processing the command. Original error: Cannot start the 'com.example.bookingvaccine' application. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting. Original error: 'com.example.bookingvaccine.MainActivity' or 'com.example.bookingvaccine.com.example.bookingvaccine.MainActivity' never started. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RIKOSAHETAPI', ip: '192.168.0.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: driver.version: AndroidDriver
+remote stacktrace: UnknownError: An unknown server-side error occurred while processing the command. Original error: Cannot start the 'com.example.bookingvaccine' application. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting. Original error: 'com.example.bookingvaccine.MainActivity' or 'com.example.bookingvaccine.com.example.bookingvaccine.MainActivity' never started. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting
+    at getResponseForW3CError (C:\Users\RICO\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\RICO\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:380:37)
+
+Verify if the user can login with valid Nik and Password (TC_L6)  Time elapsed: 0 sec  <<< ERROR!
+org.openqa.selenium.SessionNotCreatedException: 
+Unable to create a new remote session. Please check the server log for more details. Original error: An unknown server-side error occurred while processing the command. Original error: Cannot start the 'com.example.bookingvaccine' application. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting. Original error: 'com.example.bookingvaccine.MainActivity' or 'com.example.bookingvaccine.com.example.bookingvaccine.MainActivity' never started. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RIKOSAHETAPI', ip: '192.168.0.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: driver.version: AndroidDriver
+remote stacktrace: UnknownError: An unknown server-side error occurred while processing the command. Original error: Cannot start the 'com.example.bookingvaccine' application. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting. Original error: 'com.example.bookingvaccine.MainActivity' or 'com.example.bookingvaccine.com.example.bookingvaccine.MainActivity' never started. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting
+    at getResponseForW3CError (C:\Users\RICO\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\RICO\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:380:37)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RIKOSAHETAPI', ip: '192.168.0.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: driver.version: AndroidDriver
+Caused by: java.lang.reflect.InvocationTargetException
+Caused by: org.openqa.selenium.WebDriverException: 
+An unknown server-side error occurred while processing the command. Original error: Cannot start the 'com.example.bookingvaccine' application. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting. Original error: 'com.example.bookingvaccine.MainActivity' or 'com.example.bookingvaccine.com.example.bookingvaccine.MainActivity' never started. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RIKOSAHETAPI', ip: '192.168.0.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: driver.version: AndroidDriver
+remote stacktrace: UnknownError: An unknown server-side error occurred while processing the command. Original error: Cannot start the 'com.example.bookingvaccine' application. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting. Original error: 'com.example.bookingvaccine.MainActivity' or 'com.example.bookingvaccine.com.example.bookingvaccine.MainActivity' never started. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting
+    at getResponseForW3CError (C:\Users\RICO\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\RICO\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:380:37)
+
+User login input valid NIK "<NIK>" and PASSWORD "<PASSWORD>"(User want to edit Profile "Tanggal Lahir" on profile screen (TC_P7))  Time elapsed: 0 sec  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: 
+The step 'User login input valid NIK "<NIK>" and PASSWORD "<PASSWORD>"' and 6 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given("User login input valid NIK {string} and PASSWORD {string}")
+public void user_login_input_valid_nik_and_password(String string, String string2) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("On home screen, User tap button humbergerr")
+public void on_home_screen_user_tap_button_humbergerr() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("User tap menu Profil and go to profile screen")
+public void user_tap_menu_profil_and_go_to_profile_screen() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("User tap button {string}")
+public void user_tap_button(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("User edit Tanggl Lahir \\(beyond test date)")
+public void user_edit_tanggl_lahir_beyond_test_date() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("Tap Button Simpan")
+public void tap_button_simpan() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("The date of birth will change to the date when it was edited")
+public void the_date_of_birth_will_change_to_the_date_when_it_was_edited() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+User want to edit Profile "Tanggal Lahir" on profile screen (TC_P7)  Time elapsed: 0 sec  <<< ERROR!
+io.cucumber.junit.UndefinedStepException: 
+The step 'User login input valid NIK "<NIK>" and PASSWORD "<PASSWORD>"' and 6 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given("User login input valid NIK {string} and PASSWORD {string}")
+public void user_login_input_valid_nik_and_password(String string, String string2) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("On home screen, User tap button humbergerr")
+public void on_home_screen_user_tap_button_humbergerr() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("User tap menu Profil and go to profile screen")
+public void user_tap_menu_profil_and_go_to_profile_screen() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("User tap button {string}")
+public void user_tap_button(String string) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("User edit Tanggl Lahir \\(beyond test date)")
+public void user_edit_tanggl_lahir_beyond_test_date() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("Tap Button Simpan")
+public void tap_button_simpan() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("The date of birth will change to the date when it was edited")
+public void the_date_of_birth_will_change_to_the_date_when_it_was_edited() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+
+User On Register Screen(Verify if a user can't Register with a invalid Data Nama Depan with number (TC_R2))  Time elapsed: 49.57 sec  <<< ERROR!
+org.openqa.selenium.TimeoutException: 
+Expected condition failed: waiting for presence of element located by: By.xpath: 	
+//android.view.View[@content-desc="Silahkan Buat Akun Anda"] (tried for 20 second(s) with 500 milliseconds interval)
+Caused by: org.openqa.selenium.NoSuchElementException: 
+An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RIKOSAHETAPI', ip: '192.168.0.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: C:\Users\RICO\IdeaProjects\..., appPackage: com.example.bookingvaccine, automationName: UiAutomator2, databaseEnabled: false, desired: {app: C:\Users\RICO\IdeaProjects\..., automationName: UiAutomator2, noReset: true, platformName: android, platformVersion: 12}, deviceApiLevel: 31, deviceManufacturer: Google, deviceModel: sdk_gphone64_x86_64, deviceName: emulator-5554, deviceScreenDensity: 440, deviceScreenSize: 1080x2280, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, noReset: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 12, statBarHeight: 83, takesScreenshot: true, viewportRect: {height: 2065, left: 0, top: 83, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: a668bddb-2e4c-4443-a94f-cf10296a3d73
+*** Element info: {Using=xpath, value=	
+//android.view.View[@content-desc="Silahkan Buat Akun Anda"]}
+
+Verify if a user can't Register with a invalid Data Nama Depan with number (TC_R2)  Time elapsed: 0.001 sec  <<< ERROR!
+org.openqa.selenium.TimeoutException: 
+Expected condition failed: waiting for presence of element located by: By.xpath: 	
+//android.view.View[@content-desc="Silahkan Buat Akun Anda"] (tried for 20 second(s) with 500 milliseconds interval)
+Caused by: org.openqa.selenium.NoSuchElementException: 
+An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RIKOSAHETAPI', ip: '192.168.0.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: C:\Users\RICO\IdeaProjects\..., appPackage: com.example.bookingvaccine, automationName: UiAutomator2, databaseEnabled: false, desired: {app: C:\Users\RICO\IdeaProjects\..., automationName: UiAutomator2, noReset: true, platformName: android, platformVersion: 12}, deviceApiLevel: 31, deviceManufacturer: Google, deviceModel: sdk_gphone64_x86_64, deviceName: emulator-5554, deviceScreenDensity: 440, deviceScreenSize: 1080x2280, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, noReset: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 12, statBarHeight: 83, takesScreenshot: true, viewportRect: {height: 2065, left: 0, top: 83, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: a668bddb-2e4c-4443-a94f-cf10296a3d73
+*** Element info: {Using=xpath, value=	
+//android.view.View[@content-desc="Silahkan Buat Akun Anda"]}
+
+User on login screen, tap button Daftar Sekarang(Verify if a user can't Register with a invalid Data Nama Depan with simbol (TC_R3))  Time elapsed: 30.773 sec  <<< ERROR!
+org.openqa.selenium.SessionNotCreatedException: 
+Unable to create a new remote session. Please check the server log for more details. Original error: An unknown server-side error occurred while processing the command. Original error: Cannot start the 'com.example.bookingvaccine' application. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting. Original error: 'com.example.bookingvaccine.MainActivity' or 'com.example.bookingvaccine.com.example.bookingvaccine.MainActivity' never started. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RIKOSAHETAPI', ip: '192.168.0.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: driver.version: AndroidDriver
+remote stacktrace: UnknownError: An unknown server-side error occurred while processing the command. Original error: Cannot start the 'com.example.bookingvaccine' application. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting. Original error: 'com.example.bookingvaccine.MainActivity' or 'com.example.bookingvaccine.com.example.bookingvaccine.MainActivity' never started. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting
+    at getResponseForW3CError (C:\Users\RICO\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\RICO\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:380:37)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RIKOSAHETAPI', ip: '192.168.0.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: driver.version: AndroidDriver
+Caused by: java.lang.reflect.InvocationTargetException
+Caused by: org.openqa.selenium.WebDriverException: 
+An unknown server-side error occurred while processing the command. Original error: Cannot start the 'com.example.bookingvaccine' application. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting. Original error: 'com.example.bookingvaccine.MainActivity' or 'com.example.bookingvaccine.com.example.bookingvaccine.MainActivity' never started. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RIKOSAHETAPI', ip: '192.168.0.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: driver.version: AndroidDriver
+remote stacktrace: UnknownError: An unknown server-side error occurred while processing the command. Original error: Cannot start the 'com.example.bookingvaccine' application. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting. Original error: 'com.example.bookingvaccine.MainActivity' or 'com.example.bookingvaccine.com.example.bookingvaccine.MainActivity' never started. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting
+    at getResponseForW3CError (C:\Users\RICO\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\RICO\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:380:37)
+
+Verify if a user can't Register with a invalid Data Nama Depan with simbol (TC_R3)  Time elapsed: 0 sec  <<< ERROR!
+org.openqa.selenium.SessionNotCreatedException: 
+Unable to create a new remote session. Please check the server log for more details. Original error: An unknown server-side error occurred while processing the command. Original error: Cannot start the 'com.example.bookingvaccine' application. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting. Original error: 'com.example.bookingvaccine.MainActivity' or 'com.example.bookingvaccine.com.example.bookingvaccine.MainActivity' never started. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RIKOSAHETAPI', ip: '192.168.0.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: driver.version: AndroidDriver
+remote stacktrace: UnknownError: An unknown server-side error occurred while processing the command. Original error: Cannot start the 'com.example.bookingvaccine' application. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting. Original error: 'com.example.bookingvaccine.MainActivity' or 'com.example.bookingvaccine.com.example.bookingvaccine.MainActivity' never started. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting
+    at getResponseForW3CError (C:\Users\RICO\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\RICO\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:380:37)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RIKOSAHETAPI', ip: '192.168.0.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: driver.version: AndroidDriver
+Caused by: java.lang.reflect.InvocationTargetException
+Caused by: org.openqa.selenium.WebDriverException: 
+An unknown server-side error occurred while processing the command. Original error: Cannot start the 'com.example.bookingvaccine' application. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting. Original error: 'com.example.bookingvaccine.MainActivity' or 'com.example.bookingvaccine.com.example.bookingvaccine.MainActivity' never started. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RIKOSAHETAPI', ip: '192.168.0.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: driver.version: AndroidDriver
+remote stacktrace: UnknownError: An unknown server-side error occurred while processing the command. Original error: Cannot start the 'com.example.bookingvaccine' application. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting. Original error: 'com.example.bookingvaccine.MainActivity' or 'com.example.bookingvaccine.com.example.bookingvaccine.MainActivity' never started. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting
+    at getResponseForW3CError (C:\Users\RICO\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\RICO\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:380:37)
+
+User On Register Screen(Verify if a user can't Register with a invalid Data Nama Belakang using number (TC_R4))  Time elapsed: 50.038 sec  <<< ERROR!
+org.openqa.selenium.TimeoutException: 
+Expected condition failed: waiting for presence of element located by: By.xpath: 	
+//android.view.View[@content-desc="Silahkan Buat Akun Anda"] (tried for 20 second(s) with 500 milliseconds interval)
+Caused by: org.openqa.selenium.NoSuchElementException: 
+An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RIKOSAHETAPI', ip: '192.168.0.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: C:\Users\RICO\IdeaProjects\..., appPackage: com.example.bookingvaccine, automationName: UiAutomator2, databaseEnabled: false, desired: {app: C:\Users\RICO\IdeaProjects\..., automationName: UiAutomator2, noReset: true, platformName: android, platformVersion: 12}, deviceApiLevel: 31, deviceManufacturer: Google, deviceModel: sdk_gphone64_x86_64, deviceName: emulator-5554, deviceScreenDensity: 440, deviceScreenSize: 1080x2280, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, noReset: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 12, statBarHeight: 83, takesScreenshot: true, viewportRect: {height: 2065, left: 0, top: 83, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: ef925811-7a34-4e0c-97ac-09f12f8eb91b
+*** Element info: {Using=xpath, value=	
+//android.view.View[@content-desc="Silahkan Buat Akun Anda"]}
+
+Verify if a user can't Register with a invalid Data Nama Belakang using number (TC_R4)  Time elapsed: 0.004 sec  <<< ERROR!
+org.openqa.selenium.TimeoutException: 
+Expected condition failed: waiting for presence of element located by: By.xpath: 	
+//android.view.View[@content-desc="Silahkan Buat Akun Anda"] (tried for 20 second(s) with 500 milliseconds interval)
+Caused by: org.openqa.selenium.NoSuchElementException: 
+An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RIKOSAHETAPI', ip: '192.168.0.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: C:\Users\RICO\IdeaProjects\..., appPackage: com.example.bookingvaccine, automationName: UiAutomator2, databaseEnabled: false, desired: {app: C:\Users\RICO\IdeaProjects\..., automationName: UiAutomator2, noReset: true, platformName: android, platformVersion: 12}, deviceApiLevel: 31, deviceManufacturer: Google, deviceModel: sdk_gphone64_x86_64, deviceName: emulator-5554, deviceScreenDensity: 440, deviceScreenSize: 1080x2280, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, noReset: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 12, statBarHeight: 83, takesScreenshot: true, viewportRect: {height: 2065, left: 0, top: 83, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: ef925811-7a34-4e0c-97ac-09f12f8eb91b
+*** Element info: {Using=xpath, value=	
+//android.view.View[@content-desc="Silahkan Buat Akun Anda"]}
+
+User on login screen, tap button Daftar Sekarang(Verify if a user can't Register with a invalid Data Nama Belakang using Simbol (TC_R5))  Time elapsed: 31.667 sec  <<< ERROR!
+org.openqa.selenium.SessionNotCreatedException: 
+Unable to create a new remote session. Please check the server log for more details. Original error: An unknown server-side error occurred while processing the command. Original error: Cannot start the 'com.example.bookingvaccine' application. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting. Original error: 'com.example.bookingvaccine.MainActivity' or 'com.example.bookingvaccine.com.example.bookingvaccine.MainActivity' never started. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RIKOSAHETAPI', ip: '192.168.0.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: driver.version: AndroidDriver
+remote stacktrace: UnknownError: An unknown server-side error occurred while processing the command. Original error: Cannot start the 'com.example.bookingvaccine' application. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting. Original error: 'com.example.bookingvaccine.MainActivity' or 'com.example.bookingvaccine.com.example.bookingvaccine.MainActivity' never started. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting
+    at getResponseForW3CError (C:\Users\RICO\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\RICO\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:380:37)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RIKOSAHETAPI', ip: '192.168.0.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: driver.version: AndroidDriver
+Caused by: java.lang.reflect.InvocationTargetException
+Caused by: org.openqa.selenium.WebDriverException: 
+An unknown server-side error occurred while processing the command. Original error: Cannot start the 'com.example.bookingvaccine' application. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting. Original error: 'com.example.bookingvaccine.MainActivity' or 'com.example.bookingvaccine.com.example.bookingvaccine.MainActivity' never started. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RIKOSAHETAPI', ip: '192.168.0.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: driver.version: AndroidDriver
+remote stacktrace: UnknownError: An unknown server-side error occurred while processing the command. Original error: Cannot start the 'com.example.bookingvaccine' application. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting. Original error: 'com.example.bookingvaccine.MainActivity' or 'com.example.bookingvaccine.com.example.bookingvaccine.MainActivity' never started. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting
+    at getResponseForW3CError (C:\Users\RICO\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\RICO\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:380:37)
+
+Verify if a user can't Register with a invalid Data Nama Belakang using Simbol (TC_R5)  Time elapsed: 0.005 sec  <<< ERROR!
+org.openqa.selenium.SessionNotCreatedException: 
+Unable to create a new remote session. Please check the server log for more details. Original error: An unknown server-side error occurred while processing the command. Original error: Cannot start the 'com.example.bookingvaccine' application. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting. Original error: 'com.example.bookingvaccine.MainActivity' or 'com.example.bookingvaccine.com.example.bookingvaccine.MainActivity' never started. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RIKOSAHETAPI', ip: '192.168.0.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: driver.version: AndroidDriver
+remote stacktrace: UnknownError: An unknown server-side error occurred while processing the command. Original error: Cannot start the 'com.example.bookingvaccine' application. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting. Original error: 'com.example.bookingvaccine.MainActivity' or 'com.example.bookingvaccine.com.example.bookingvaccine.MainActivity' never started. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting
+    at getResponseForW3CError (C:\Users\RICO\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\RICO\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:380:37)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RIKOSAHETAPI', ip: '192.168.0.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: driver.version: AndroidDriver
+Caused by: java.lang.reflect.InvocationTargetException
+Caused by: org.openqa.selenium.WebDriverException: 
+An unknown server-side error occurred while processing the command. Original error: Cannot start the 'com.example.bookingvaccine' application. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting. Original error: 'com.example.bookingvaccine.MainActivity' or 'com.example.bookingvaccine.com.example.bookingvaccine.MainActivity' never started. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RIKOSAHETAPI', ip: '192.168.0.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: driver.version: AndroidDriver
+remote stacktrace: UnknownError: An unknown server-side error occurred while processing the command. Original error: Cannot start the 'com.example.bookingvaccine' application. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting. Original error: 'com.example.bookingvaccine.MainActivity' or 'com.example.bookingvaccine.com.example.bookingvaccine.MainActivity' never started. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting
+    at getResponseForW3CError (C:\Users\RICO\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\RICO\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:380:37)
+
+User On Register Screen(Verify if a user can't Register with a invalid Data Format Email (TC_R6))  Time elapsed: 64.177 sec  <<< ERROR!
+org.openqa.selenium.TimeoutException: 
+Expected condition failed: waiting for presence of element located by: By.xpath: 	
+//android.view.View[@content-desc="Silahkan Buat Akun Anda"] (tried for 20 second(s) with 500 milliseconds interval)
+Caused by: org.openqa.selenium.NoSuchElementException: 
+An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RIKOSAHETAPI', ip: '192.168.0.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: C:\Users\RICO\IdeaProjects\..., appPackage: com.example.bookingvaccine, automationName: UiAutomator2, databaseEnabled: false, desired: {app: C:\Users\RICO\IdeaProjects\..., automationName: UiAutomator2, noReset: true, platformName: android, platformVersion: 12}, deviceApiLevel: 31, deviceManufacturer: Google, deviceModel: sdk_gphone64_x86_64, deviceName: emulator-5554, deviceScreenDensity: 440, deviceScreenSize: 1080x2280, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, noReset: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 12, statBarHeight: 83, takesScreenshot: true, viewportRect: {height: 2065, left: 0, top: 83, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 8051855e-5345-4d5f-99d2-01ee1a57ea5c
+*** Element info: {Using=xpath, value=	
+//android.view.View[@content-desc="Silahkan Buat Akun Anda"]}
+
+Verify if a user can't Register with a invalid Data Format Email (TC_R6)  Time elapsed: 0 sec  <<< ERROR!
+org.openqa.selenium.TimeoutException: 
+Expected condition failed: waiting for presence of element located by: By.xpath: 	
+//android.view.View[@content-desc="Silahkan Buat Akun Anda"] (tried for 20 second(s) with 500 milliseconds interval)
+Caused by: org.openqa.selenium.NoSuchElementException: 
+An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RIKOSAHETAPI', ip: '192.168.0.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: C:\Users\RICO\IdeaProjects\..., appPackage: com.example.bookingvaccine, automationName: UiAutomator2, databaseEnabled: false, desired: {app: C:\Users\RICO\IdeaProjects\..., automationName: UiAutomator2, noReset: true, platformName: android, platformVersion: 12}, deviceApiLevel: 31, deviceManufacturer: Google, deviceModel: sdk_gphone64_x86_64, deviceName: emulator-5554, deviceScreenDensity: 440, deviceScreenSize: 1080x2280, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, noReset: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 12, statBarHeight: 83, takesScreenshot: true, viewportRect: {height: 2065, left: 0, top: 83, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 8051855e-5345-4d5f-99d2-01ee1a57ea5c
+*** Element info: {Using=xpath, value=	
+//android.view.View[@content-desc="Silahkan Buat Akun Anda"]}
+
+User On Register Screen(Verify if a user can't Register with a valid Data Format Email (TC_R7))  Time elapsed: 65.706 sec  <<< ERROR!
+org.openqa.selenium.TimeoutException: 
+Expected condition failed: waiting for presence of element located by: By.xpath: 	
+//android.view.View[@content-desc="Silahkan Buat Akun Anda"] (tried for 20 second(s) with 500 milliseconds interval)
+Caused by: org.openqa.selenium.NoSuchElementException: 
+An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RIKOSAHETAPI', ip: '192.168.0.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: C:\Users\RICO\IdeaProjects\..., appPackage: com.example.bookingvaccine, automationName: UiAutomator2, databaseEnabled: false, desired: {app: C:\Users\RICO\IdeaProjects\..., automationName: UiAutomator2, noReset: true, platformName: android, platformVersion: 12}, deviceApiLevel: 31, deviceManufacturer: Google, deviceModel: sdk_gphone64_x86_64, deviceName: emulator-5554, deviceScreenDensity: 440, deviceScreenSize: 1080x2280, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, noReset: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 12, statBarHeight: 83, takesScreenshot: true, viewportRect: {height: 2065, left: 0, top: 83, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 51b68b43-66a1-421d-af76-0b885dbbe65d
+*** Element info: {Using=xpath, value=	
+//android.view.View[@content-desc="Silahkan Buat Akun Anda"]}
+
+Verify if a user can't Register with a valid Data Format Email (TC_R7)  Time elapsed: 0.006 sec  <<< ERROR!
+org.openqa.selenium.TimeoutException: 
+Expected condition failed: waiting for presence of element located by: By.xpath: 	
+//android.view.View[@content-desc="Silahkan Buat Akun Anda"] (tried for 20 second(s) with 500 milliseconds interval)
+Caused by: org.openqa.selenium.NoSuchElementException: 
+An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RIKOSAHETAPI', ip: '192.168.0.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: C:\Users\RICO\IdeaProjects\..., appPackage: com.example.bookingvaccine, automationName: UiAutomator2, databaseEnabled: false, desired: {app: C:\Users\RICO\IdeaProjects\..., automationName: UiAutomator2, noReset: true, platformName: android, platformVersion: 12}, deviceApiLevel: 31, deviceManufacturer: Google, deviceModel: sdk_gphone64_x86_64, deviceName: emulator-5554, deviceScreenDensity: 440, deviceScreenSize: 1080x2280, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, noReset: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 12, statBarHeight: 83, takesScreenshot: true, viewportRect: {height: 2065, left: 0, top: 83, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 51b68b43-66a1-421d-af76-0b885dbbe65d
+*** Element info: {Using=xpath, value=	
+//android.view.View[@content-desc="Silahkan Buat Akun Anda"]}
+
+User On Register Screen(Verify if a user can't Register with a invalid Data Password only lowercase (TC_R8))  Time elapsed: 51.429 sec  <<< ERROR!
+org.openqa.selenium.TimeoutException: 
+Expected condition failed: waiting for presence of element located by: By.xpath: 	
+//android.view.View[@content-desc="Silahkan Buat Akun Anda"] (tried for 20 second(s) with 500 milliseconds interval)
+Caused by: org.openqa.selenium.NoSuchElementException: 
+An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RIKOSAHETAPI', ip: '192.168.0.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: C:\Users\RICO\IdeaProjects\..., appPackage: com.example.bookingvaccine, automationName: UiAutomator2, databaseEnabled: false, desired: {app: C:\Users\RICO\IdeaProjects\..., automationName: UiAutomator2, noReset: true, platformName: android, platformVersion: 12}, deviceApiLevel: 31, deviceManufacturer: Google, deviceModel: sdk_gphone64_x86_64, deviceName: emulator-5554, deviceScreenDensity: 440, deviceScreenSize: 1080x2280, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, noReset: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 12, statBarHeight: 83, takesScreenshot: true, viewportRect: {height: 2065, left: 0, top: 83, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: d33bf15c-2db8-4716-9368-7ace326168c1
+*** Element info: {Using=xpath, value=	
+//android.view.View[@content-desc="Silahkan Buat Akun Anda"]}
+
+Verify if a user can't Register with a invalid Data Password only lowercase (TC_R8)  Time elapsed: 0.004 sec  <<< ERROR!
+org.openqa.selenium.TimeoutException: 
+Expected condition failed: waiting for presence of element located by: By.xpath: 	
+//android.view.View[@content-desc="Silahkan Buat Akun Anda"] (tried for 20 second(s) with 500 milliseconds interval)
+Caused by: org.openqa.selenium.NoSuchElementException: 
+An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RIKOSAHETAPI', ip: '192.168.0.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: C:\Users\RICO\IdeaProjects\..., appPackage: com.example.bookingvaccine, automationName: UiAutomator2, databaseEnabled: false, desired: {app: C:\Users\RICO\IdeaProjects\..., automationName: UiAutomator2, noReset: true, platformName: android, platformVersion: 12}, deviceApiLevel: 31, deviceManufacturer: Google, deviceModel: sdk_gphone64_x86_64, deviceName: emulator-5554, deviceScreenDensity: 440, deviceScreenSize: 1080x2280, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, noReset: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 12, statBarHeight: 83, takesScreenshot: true, viewportRect: {height: 2065, left: 0, top: 83, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: d33bf15c-2db8-4716-9368-7ace326168c1
+*** Element info: {Using=xpath, value=	
+//android.view.View[@content-desc="Silahkan Buat Akun Anda"]}
+
+User on login screen, tap button Daftar Sekarang(Verification "batal" in Register Page can be used (TC_R11))  Time elapsed: 29.373 sec  <<< ERROR!
+org.openqa.selenium.SessionNotCreatedException: 
+Unable to create a new remote session. Please check the server log for more details. Original error: An unknown server-side error occurred while processing the command. Original error: Cannot start the 'com.example.bookingvaccine' application. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting. Original error: 'com.example.bookingvaccine.MainActivity' or 'com.example.bookingvaccine.com.example.bookingvaccine.MainActivity' never started. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RIKOSAHETAPI', ip: '192.168.0.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: driver.version: AndroidDriver
+remote stacktrace: UnknownError: An unknown server-side error occurred while processing the command. Original error: Cannot start the 'com.example.bookingvaccine' application. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting. Original error: 'com.example.bookingvaccine.MainActivity' or 'com.example.bookingvaccine.com.example.bookingvaccine.MainActivity' never started. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting
+    at getResponseForW3CError (C:\Users\RICO\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\RICO\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:380:37)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RIKOSAHETAPI', ip: '192.168.0.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: driver.version: AndroidDriver
+Caused by: java.lang.reflect.InvocationTargetException
+Caused by: org.openqa.selenium.WebDriverException: 
+An unknown server-side error occurred while processing the command. Original error: Cannot start the 'com.example.bookingvaccine' application. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting. Original error: 'com.example.bookingvaccine.MainActivity' or 'com.example.bookingvaccine.com.example.bookingvaccine.MainActivity' never started. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RIKOSAHETAPI', ip: '192.168.0.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: driver.version: AndroidDriver
+remote stacktrace: UnknownError: An unknown server-side error occurred while processing the command. Original error: Cannot start the 'com.example.bookingvaccine' application. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting. Original error: 'com.example.bookingvaccine.MainActivity' or 'com.example.bookingvaccine.com.example.bookingvaccine.MainActivity' never started. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting
+    at getResponseForW3CError (C:\Users\RICO\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\RICO\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:380:37)
+
+Verification "batal" in Register Page can be used (TC_R11)  Time elapsed: 0.001 sec  <<< ERROR!
+org.openqa.selenium.SessionNotCreatedException: 
+Unable to create a new remote session. Please check the server log for more details. Original error: An unknown server-side error occurred while processing the command. Original error: Cannot start the 'com.example.bookingvaccine' application. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting. Original error: 'com.example.bookingvaccine.MainActivity' or 'com.example.bookingvaccine.com.example.bookingvaccine.MainActivity' never started. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RIKOSAHETAPI', ip: '192.168.0.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: driver.version: AndroidDriver
+remote stacktrace: UnknownError: An unknown server-side error occurred while processing the command. Original error: Cannot start the 'com.example.bookingvaccine' application. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting. Original error: 'com.example.bookingvaccine.MainActivity' or 'com.example.bookingvaccine.com.example.bookingvaccine.MainActivity' never started. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting
+    at getResponseForW3CError (C:\Users\RICO\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\RICO\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:380:37)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RIKOSAHETAPI', ip: '192.168.0.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: driver.version: AndroidDriver
+Caused by: java.lang.reflect.InvocationTargetException
+Caused by: org.openqa.selenium.WebDriverException: 
+An unknown server-side error occurred while processing the command. Original error: Cannot start the 'com.example.bookingvaccine' application. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting. Original error: 'com.example.bookingvaccine.MainActivity' or 'com.example.bookingvaccine.com.example.bookingvaccine.MainActivity' never started. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'RIKOSAHETAPI', ip: '192.168.0.15', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+Driver info: driver.version: AndroidDriver
+remote stacktrace: UnknownError: An unknown server-side error occurred while processing the command. Original error: Cannot start the 'com.example.bookingvaccine' application. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting. Original error: 'com.example.bookingvaccine.MainActivity' or 'com.example.bookingvaccine.com.example.bookingvaccine.MainActivity' never started. Visit https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/android/activity-startup.md for troubleshooting
+    at getResponseForW3CError (C:\Users\RICO\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\protocol\errors.js:804:9)
+    at asyncHandler (C:\Users\RICO\AppData\Roaming\npm\node_modules\appium\node_modules\appium-base-driver\lib\protocol\protocol.js:380:37)
+

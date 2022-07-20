@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Login","Verify if the user can't login with invalid NIK (TC_L1)","FAILURE","2022-07-20T14:11:18.4344746+07:00[Asia/Bangkok]","0.0","68.47"
+"Login","Verify if the user can't login with invalid Password (TC_L2)","ERROR","2022-07-20T14:12:26.9324905+07:00[Asia/Bangkok]","0.0","93.53"
+"Login","Verify if the user can login with valid Nik and Password (TC_L6)","ERROR","2022-07-20T14:16:29.7748709+07:00[Asia/Bangkok]","0.0","28.94"

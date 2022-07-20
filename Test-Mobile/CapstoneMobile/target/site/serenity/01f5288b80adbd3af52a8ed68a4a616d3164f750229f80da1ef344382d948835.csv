@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Login","Verify if the user can login with empty Nik and Password (TC_L3)","SUCCESS","2022-07-20T14:14:00.4657779+07:00[Asia/Bangkok]","0.0","44.54"
+"Login","Verify if the user can't login with empty NIK (TC_L4)","SUCCESS","2022-07-20T14:14:45.0146498+07:00[Asia/Bangkok]","0.0","53.08"
+"Login","Verify if the user can't login with empty Password (TC_L5)","SUCCESS","2022-07-20T14:15:38.1058394+07:00[Asia/Bangkok]","0.0","51.66"

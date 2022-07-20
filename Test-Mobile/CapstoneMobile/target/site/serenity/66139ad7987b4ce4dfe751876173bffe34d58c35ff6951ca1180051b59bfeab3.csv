@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Register","User want to check family member (TC_F2)","PENDING","2022-07-20T14:11:18.1410461+07:00[Asia/Bangkok]","0.0","0.07"
+"Register","User want to edit NIK Anggota Keluarga with invalid NIK (TC_F5)","PENDING","2022-07-20T14:11:18.2386941+07:00[Asia/Bangkok]","0.0","0.07"
+"Register","User want to delete family member (TC_F6)","PENDING","2022-07-20T14:11:18.3404214+07:00[Asia/Bangkok]","0.0","0.06"
